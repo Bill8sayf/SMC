@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">simple_mobile_calc</string>
+    <string name="hint_secure_message">Это единственное место где вы можете считать и не беспокоиться о утечке данных, ведь мы не умеем их собирать</string>
 </resources>
